@@ -4,16 +4,17 @@ This readme will consists of:
       iii. Instructions on how to run and use the program
       
 
-Summary:
-The project we created is a simplified version of BlackJack also known as 21.
-Blackjack is a traditional casino banked game, meaning that players compete against the house rather than each other. 
-However, in our version, there is only one player against the computer. 
-The objective of the game is to get a hand total that is closest or equivalent to 21. 
-If a hand is over 21 or less than that of the dealer, the player automatically loses the game. 
+Project Summary:
+The project we created is a simplified version of Blackjack also known as 21. Blackjack is a traditional casino banked game, meaning players compete against the house rather than each other. However, in our version, there is only one player against the computer. The objective of the game is to beat the earlier. 
+To beat the dealer, the player must: 
+1) Get a hand total that is close to and not over 21 
+2) Either outscore the dealer by getting blackjack 
+3) Have the dealer bust by going over 21. 
+However, if a player's hand is over 21 or less value than the dealer's hand, the player automatically loses the game. 
 
 
 
-Features:
+Features of the Program:
 The system will allow a player to play a hand of blackjack against a computer-controlled dealer
 The player is dealt with 2 random cards
 If the sum is less than 21, the player has the option to either hit or stay
