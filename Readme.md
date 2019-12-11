@@ -10,6 +10,7 @@ To beat the dealer, the player must:
 1) Get a hand total that is close to and not over 21 
 2) Either outscore the dealer by getting blackjack 
 3) Have the dealer bust by going over 21. 
+
 However, if a player's hand is over 21 or less value than the dealer's hand, the player automatically loses the game. 
 
 
