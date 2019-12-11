@@ -16,14 +16,16 @@ However, if a player's hand is over 21 or less value than the dealer's hand, the
 
 
 Features of the Program:
-1. The system will allow a player to play a hand of blackjack against a computer-controlled dealer2
-2. The player is dealt with 2 random cards
-3. If the sum is less than 21, the player has the option to either hit or stay
-4. If the player decides to hit, then another random card is dealt to the player
-5. If the player decides to stays, then no cards are drawn, and the dealer and player cards are revealed
-6. If the dealer’s sum is equal to 21, and the player’s hand is smaller or greater than 21, the player automatically loses
-7. If the player’s sum is equal to 21 and the dealer’s hand is lower or greater than 21, the player wins
-8. If the player’s sum is closer to 21 than the dealer’s sum, the player wins
-9. If the dealer sum is greater than the player sum, and less than 21, the dealer wins
+1. The system will allow a player to play a hand of blackjack against a computer-controlled dealer
+2. Player will bet money against the dealer.
+3. The player is dealt with 2 random cards
+4. If the sum is less than 21, the player has the option to either hit or stay
+5. If the player decides to hit, then another random card is dealt to the player
+6. If the player decides to stays, then no cards are drawn, and the dealer and player cards are revealed
+7. If the dealer’s sum is equal to 21, and the player’s hand is smaller or greater than 21, the player automatically loses
+8. If the player’s sum is equal to 21 and the dealer’s hand is lower or greater than 21, the player wins
+9. If the player’s sum is closer to 21 than the dealer’s sum, the player wins
+10. If the dealer sum is greater than the player sum, and less than 21, the dealer wins
+11. Depending on who wins, the winner the wager amount.
 
-
+Instructions on how to run and use the program: The user should run the game on blackjack.java
